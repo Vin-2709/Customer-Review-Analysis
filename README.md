@@ -1,7 +1,5 @@
 # Customer-Review-Analysis
 
-A simple dashboard-based system to analyse customer reviews and visualise insights.
-
 🎯 Project Overview
 This project implements a full data analytics pipeline, designed to transform raw customer feedback into an actionable, multi-page Power BI dashboard.
 
