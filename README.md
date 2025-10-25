@@ -1,6 +1,7 @@
 # Customer-Review-Analysis
 
 🎯 Project Overview
+
 This project implements a full data analytics pipeline, designed to transform raw customer feedback into an actionable, multi-page Power BI dashboard.
 
 The core of this project is its advanced sentiment analysis engine. Instead of relying on simple positive/negative labels, this system uses a hybrid approach:
